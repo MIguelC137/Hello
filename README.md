@@ -4,7 +4,9 @@ Un repositorio clásico de "Hola Mundo" con ejemplos simples en varios lenguajes
 
 https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif
 
-*[Source: GIPHY](https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif)https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif)
+*[Source: GIPHY](https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif)https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif
+
+_Note: Original idea by **[Tiffany Timbers](https://github.com/ttimbers/hello)**_
 
 <br>
 Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
