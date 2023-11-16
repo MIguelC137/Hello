@@ -8,7 +8,6 @@ https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif
 
 
 
-_Note: Original idea by **[Tiffany Timbers](https://github.com/ttimbers/hello)**_
 
 ### Original idea
 This is based in [ttimbers/hello](https://github.com/ttimbers/hello) repository. Thank you Tiffany!
