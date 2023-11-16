@@ -5,3 +5,8 @@ Un repositorio clásico de "Hola Mundo" con ejemplos simples en varios lenguajes
 https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif
 
 *[Source: GIPHY](https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif)https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif)
+
+<br>
+Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
+
+![](https://raw.githubusercontent.com/vcuspinera/UDG_MCD_Project_Dev_I/main/actividades/img/MCD_logo.png)
